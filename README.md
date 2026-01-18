@@ -1,4 +1,4 @@
-# Imaging-Plate-Diffraction-System-Pattern-Processing
+# Image-Plate-Diffraction-System-Pattern-Processing
 Software and useful python tools for analyzing the STOE Image-plate Diffraction System (IPDS) diffraction patterns
 
 
