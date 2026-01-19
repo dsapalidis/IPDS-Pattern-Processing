@@ -1,7 +1,9 @@
 # IPDS-Pattern-Processing
 Software and useful python tools for analyzing the STOE Image-plate Diffraction System (IPDS) diffraction patterns
 
-
+<p align="center">
+  <img src="IPDS_Background_Subtraction.png" width="900" />
+</p
    
 STOE IPDS software and tools is a Python package containing mostly jupyter notebooks that enables:
 1. Reading the exported .tiff images from X-Area and load them
